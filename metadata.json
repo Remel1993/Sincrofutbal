@@ -1,0 +1,6 @@
+{
+  "name": "SimulaciónHub - Dice Football",
+  "description": "Simulación de fútbol con dados, ligas, modo carrera y torneos europeos e internacionales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
